@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Rai</h1>
-<h3 align="center">A passionate Full Stack Developer & WEB3 Devloper/h3>
+<h3 align="center">A passionate Full Stack Developer & WEB3 Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;CPP+Enthusiast;Open+Source+Contributor"/>
@@ -13,6 +13,10 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aniraai&theme=algolia&no-frame=true&row=2&column=3" alt="Trophies"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Technical Image" width="600"/>
 </p>
 
 ---
@@ -53,7 +57,7 @@
 
 ### 🚀 Commit Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aniraai&theme=react-dark&area=true&hide_border=true&color=0e75b6&line=0e75b6" alt="Commit Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniraai&theme=blueberry&area=true&hide_border=true&color=0e75b6&line=0e75b6" alt="Commit Graph"/>
 </p>
 
 ### 📈 Top Languages
@@ -62,7 +66,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=footer"/>
-</p>
