@@ -4,9 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Rai</h1>
 <h3 align="center">A passionate Full Stack Developer & WEB3 Developer</h3>
-<p align="center">
-  <img src="./iko2.gif" alt="Animated GIF" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;CPP+Enthusiast;Open+Source+Contributor"/>
