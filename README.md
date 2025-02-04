@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./iko2.gif" alt="Animated GIF" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ankit Rai</h1>
 <h3 align="center">A passionate Full Stack Developer & WEB3 Developer</h3>
 <p align="center">
